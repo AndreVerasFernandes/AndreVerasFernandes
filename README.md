@@ -10,8 +10,13 @@
 
 <div align="center">
   <a href="https://github.com/AndreVerasFernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreVerasFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVerasFernandes&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://ghstats.dev/api/sparkline?username=andreverasfernandes&theme=ocean&days=30&width=320&height=80"/>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/AndreVerasFernandes">
+  <img  src="https://ghstats.dev/api/langs?username=andreverasfernandes&theme=ocean&max_langs=9&width=280&height=80"/>
 </div>
   
   <div style="display: inline_block" align="center"><br>

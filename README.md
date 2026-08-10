@@ -10,13 +10,13 @@
 
 <div align="center">
   <a href="https://github.com/AndreVerasFernandes">
-  <img src="https://gh-profile-stats.up.railway.app//api/sparkline?username=andreverasfernandes&theme=ocean&days=30&width=320&height=80"/>
+  <img src="https://ghstats.dev//api/sparkline?username=andreverasfernandes&theme=ocean&days=30&width=320&height=80"/>
 
 </div>
 
 <div align="center">
   <a href="https://github.com/AndreVerasFernandes">
-  <img  src="https://gh-profile-stats.up.railway.app//api/langs?username=andreverasfernandes&theme=ocean&max_langs=9&width=280&height=80"/>
+  <img  src="https://ghstats.dev//api/langs?username=andreverasfernandes&theme=ocean&max_langs=9&width=280&height=80"/>
 </div>
   
   <div style="display: inline_block" align="center"><br>
